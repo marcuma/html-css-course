@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+article {
+  border: 5px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+.item-title {
+  text-transform: uppercase;
+}
+
+.free-shipping {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #777;
+}
+
+.price {
+  font-size: 20px;
+}
+
+ul {
+  list-style: square;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: black;
+  color: white;
+}
